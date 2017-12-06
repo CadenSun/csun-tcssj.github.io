@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Creepster', cursive;
+  }
+  nav ul {
+    font-size :20px;
+    List-style-type: none;
+    margin:0;
+    padding:5px;
+    overflow: hidden;
+    Background-color: #006BB6;
+  }
+  nav li {
+    float: left;
+    
+  }
+  nav li a {
+    display: block;
+    color: #FFC72D;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+    
+  
+  }
+  nav li a:hover {
+    background-color:#2204D8 ;
+  }
+  
+  footer {
+    /*position: fixed;*/
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color:#006BB6;
+    color:rgb(216, 255, 45);
+      padding: 5px 16px;
+  }
+  footer a {
+    color: #FFC72D;
+    text-decoration: none;
+  }
+  footer a:hover{
+    background-color:#2204D8 ;
+  }
+  img {
+    width: auto;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
