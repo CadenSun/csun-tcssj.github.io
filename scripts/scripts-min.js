@@ -1,0 +1,1 @@
+$(document).ready(function(){$("button").click(function(){$("#warrior-logo").fadeToggle(1e3)})});
